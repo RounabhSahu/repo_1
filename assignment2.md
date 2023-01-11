@@ -9,7 +9,7 @@ Answers.
 
 2. nodejs is runtime environmenrt based on javascript where as javascript is a programming language
 
-3. ![package.json](./img.png)
+3. ![package.json](./imgs.png)
 
 4. git revert HEAD
 5. ![Script.js](./img2.png)
